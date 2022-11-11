@@ -1,0 +1,42 @@
+# 不定积分
+## 概念与性质
+### 定义:(求导的反向)
+- $f(x)在I的全体原函数称为f（x）在I的不定积分$记为$\int{f(x)dx}$
+- ⭐若$F(x是一个原函数，则\int f(x)dx = F(x)+C$
+### 几何意义
+- 一组平行的曲线族
+### 性质
+- 不定积分求导/微分为原函数
+- 不定积分的导数等于被积函数
+- 和的不定积分等于不定积分的和
+- 常数可以移到积分号外
+### 原函数存在定理：
+- ⭐连续函数一定有原函数
+## 积分表
+-  $$\begin{aligned}
+    &\int 0 dx = C \\ 
+    &\int{\frac{1}{x}dx} =\ln{|x|}+C \\
+    &\int{\sec^{2}{x}dx} = \tan{x}+C\\
+    &\int{\csc^{2}{x}dx} = -\cot{x}+C\\
+    &\cdots
+    \end{aligned}
+    $$
+
+<!-- css样式 -->
+<style>
+strong,h2,h3,h4 {color : #7acac1 !important;}
+#logo {max-width : 5%  !important;}
+a { color : #6c9c6c !important;}
+h1,p,li { 
+color: #999 !important;
+font-size : 18 px !important;
+/* max-width : 90% !important;  */
+}
+h1,h2,h3,h4,li,a,strong,font {
+  font-family : '仓耳今楷03' !important;
+
+}
+body { background-color : #263238 !important;
+          font-size: 18 px !important;
+        }
+</style>
