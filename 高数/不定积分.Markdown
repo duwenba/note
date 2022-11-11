@@ -12,15 +12,15 @@
 - 常数可以移到积分号外
 ### 原函数存在定理：
 - ⭐连续函数一定有原函数
-## 积分表
--  $$\begin{aligned}
-    &\int 0 dx = C \\ 
-    &\int{\frac{1}{x}dx} =\ln{|x|}+C \\
-    &\int{\sec^{2}{x}dx} = \tan{x}+C\\
-    &\int{\csc^{2}{x}dx} = -\cot{x}+C\\
-    &\cdots
-    \end{aligned}
-    $$
+## 积分表⭐
+|导函数|原函数|
+|-------|------|
+|$\int 0 dx $ |$C$  
+|$\int{\frac{1}{x}dx}$  | $\ln{\lvert x \rvert} $
+|$\int{\sec^{2}{x}dx}$ | $ \tan{x}+C$
+|$\int{\csc^{2}{x}dx}$ | $ -\cot{x}+C$
+|$\cdots$
+
 
 <!-- css样式 -->
 <style>
