@@ -13,7 +13,7 @@ from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 from email.header import Header
 # iqncdthwqsejebje授权码
-url:str = 'https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/jksb?ptopid=sC02BA3DA781B42B48996C4B63E4E3186&amp;sid=221118125401162747&amp;fun2='
+# url:str = 'https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/jksb?ptopid=sC02BA3DA781B42B48996C4B63E4E3186&amp;sid=221118125401162747&amp;fun2='
 url:str = 'https://jksb.v.zzu.edu.cn/vls6sss/zzujksb.dll/first6?ptopid=s554AE54B6FB74A959900B649458E3DF2&sid=221118095111746531&fun2=&id8='
 button_1_xpath = "//*[@id='bak_0']/div[11]/div[3]/div[4]" #本人填报 //*[@id="bak_0"]/div[11]/div[3]/div[4]
 button_2_id = 'btn416a'#提交表格
