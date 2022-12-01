@@ -90,4 +90,5 @@ def mail(msg):
     stp.quit()
 if __name__ == '__main__':
     mail(log_in(url))
-    # mail('收到了吗？')
+    # mail('收到了吗？')�ʼ����ͳɹ�
+    # print("你好")
